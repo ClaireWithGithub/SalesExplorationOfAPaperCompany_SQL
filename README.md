@@ -1,1 +1,1 @@
-In this project, I used Postgres SQL to drive business insights.
+In this project, I used PostgreSQL to drive business insights.
