@@ -1,1 +1,1 @@
-# Sales-Exploration-of-a-Paper-Company-in-SQL
+In this project, I used Postgres SQL to drive business insights.
